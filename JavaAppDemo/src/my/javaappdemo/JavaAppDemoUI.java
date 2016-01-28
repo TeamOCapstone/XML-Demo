@@ -24,8 +24,8 @@ import java.util.Random;
  * @author cwyoung
  */
 public class JavaAppDemoUI extends javax.swing.JFrame {
-    String inputpath = "/Volumes/Data/Users/cwyoung/Desktop/Poultry_Demos/inputs.xml";
-    String outputpath = "/Volumes/Data/Users/cwyoung/Desktop/Poultry_Demos/outputs.xml";
+    String inputpath = "../inputs.xml";
+    String outputpath = "../outputs.xml";
 
     /**
      * @param args the command line arguments
@@ -485,7 +485,7 @@ public class JavaAppDemoUI extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         try{
-            Runtime.getRuntime().exec("java -jar /Volumes/Data/Users/cwyoung/Desktop/Poultry_Demos/engine/dist/engine.jar "
+            Runtime.getRuntime().exec("java -jar ../engine/dist/engine.jar "
                     + inputpath + " "+ outputpath);       
         } catch (IOException e) {e.printStackTrace();}
     }//GEN-LAST:event_jButton1ActionPerformed
