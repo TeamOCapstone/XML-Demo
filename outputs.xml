@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><outputs>
+	<output>
+		<category>Report A</category>
+		<title>Report 0001</title>
+		<value>464</value>
+	</output>
+	<output>
+		<category>Report A</category>
+		<title>Report 0002</title>
+		<value>49</value>
+	</output>
+	<output>
+		<category>Report B</category>
+		<title>Report 0003</title>
+		<value>120</value>
+	</output>
+	<output>
+		<category>Report B</category>
+		<title>Report 0004</title>
+		<value>28</value>
+	</output>
+	<output>
+		<category>Report B</category>
+		<title>Report 0005</title>
+		<value>383</value>
+	</output>
+	<output>
+		<category>Report C</category>
+		<title>Report 0006</title>
+		<value>282</value>
+	</output>
+	<output>
+		<category>Report C</category>
+		<title>Report 0007</title>
+		<value>136</value>
+	</output>
+</outputs>

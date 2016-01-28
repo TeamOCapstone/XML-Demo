@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inputs>
+	<input>
+		<category>Feed</category>
+		<title>A</title>
+		<value>10</value>
+	</input>
+	<input>
+		<category>Feed</category>
+		<title>B</title>
+		<value>20</value>
+	</input>
+	
+	
+	<input>
+		<category>Barn</category>
+		<title>A</title>
+		<value>30</value>
+	</input>
+	<input>
+		<category>Barn</category>
+		<title>B</title>
+		<value>40</value>
+	</input>
+	<input>
+		<category>Barn</category>
+		<title>C</title>
+		<value>50</value>
+	</input>
+	
+	
+	<input>
+		<category>Facility</category>
+		<title>A</title>
+		<value>60</value>
+	</input>
+	<input>
+		<category>Facility</category>
+		<title>B</title>
+		<value>70</value>
+	</input>
+</inputs>
