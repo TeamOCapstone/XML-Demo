@@ -3,3 +3,15 @@
 https://netbeans.org/kb/docs/java/gui-functionality.html
 
 The above website documents how to use Netbeans' GUI builder. It is a short tutorial that opens up a lot of functionality for complex visual components and how to interact with them, from text fields to menu bars.
+
+http://www.mkyong.com/tutorials/java-xml-tutorials/
+
+This is a list of useful XML tutorials for reading, writing, creating, etc. In particular, the following two tutorials I used for XML.
+
+http://www.mkyong.com/java/how-to-read-xml-file-in-java-dom-parser/
+
+Above is the how to for reading XML through Java.
+
+http://www.mkyong.com/java/how-to-modify-xml-file-in-java-dom-parser/
+
+Above is the how to for modifying XML through Java.
